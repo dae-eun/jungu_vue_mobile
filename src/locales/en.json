@@ -1,0 +1,568 @@
+{
+    "nav":{
+        "eBook":"E-BOOK",
+        "logo" : "",
+        "nav0":"Medical Tourism Information",
+        "nav1":"Tourist Facilities",
+        "nav2":"Map",
+        "nav3":"AI Service",
+        "nav4":"Transportation",
+        "nav5":"Inquiry",
+        "nav6":"Notice",
+        "dropNav":{
+            "nav0":{
+                "n0":"Medical Institutions",
+                "n1":"Tourist Information"
+            },
+            "nav1":{
+                "n0":"Mobile Refund",
+                "n1":"Emergency Response"
+            },
+            "nav2":{
+                "n0":"Location-based Map",
+                "n1":"Directions",
+                "n2":"Subway Diagram"
+            },
+            "nav3":{
+                "n0":"AI Translator",
+                "n1":"AI Recommended Courses"
+            },
+            "nav4":{
+                "n0":"Flight Information",
+                "n1":"Train Information"
+            },
+            "nav5":{
+                "n0":"FAQ"
+            },
+            "nav6":{
+                "n0":"Notice"
+            }
+        }
+    },
+    "btn":{
+        "moreBtn":"More",
+        "allBtn":"All",
+        "searchBtn":"Directions"
+    },
+    "footerHeader":{
+        "dayOff":"Closed on Sat. and Sun.",
+        "lunch":"Lunch Break : PM 12:00 - PM 01:00",
+        "btn0":"Korea Medical Dispute Mediation and Arbitration Agency ",
+        "btn1-0":"Mediation and Arbitration of",
+        "btn1-1":"Medical Disputes",
+        "content0":"Promotional Video",
+        "content1":"Brochure",
+        "content2":"Busanjin Medical Tourism",
+        "content3":"Map of Medical Institutions"
+    },
+    "footer":{
+        "h0":"Homepage Copyright Protection Policy",
+        "h1":"Privacy Policy",
+        "h2":"Rejection of Unauthorized E-mail Collection",
+        "h3":"Site Map",
+        "h4":"Location",
+        "add":"[26464] Busan City Jin-gu",
+        "tell":"Tel. : 051-1234-5678",
+        "comNum":"Business Number : 202-81-50707 ",
+        "bizNum":"Mail-order-sales Registration Number : 제2009-서울중구-1234호",
+        "selectBx":"Family Sites",
+        "selectBx0":"Busan Jingu",
+        "selectBx1":"Ministry of Culture, Sports and Tourism",
+        "selectBx2":"Korea Tourism Organization",
+        "selectBx3":"Busanjin Medical Tourism Service"
+    },
+    "placeHolder":{
+        "type0":"Search",
+        "type1":"Enter Name of Medical Facility",
+        "type2":"Enter Name of Tourist Attraction",
+        "type3":"Enter Text",
+        "type4":"Enter City Name with an Airport",
+        "type5":"Choose Starting Point",
+        "type6":"Choose Destination"
+    },
+    "main":{
+        "visual":{
+            "text0":"Meet Busanjin-gu's",
+            "text1":"innovative Medical Tourism",
+            "download":"Download E-BOOK"
+        },
+        "article":{
+            "tema0":{
+                "title":"AI Recommended\n Jin-gu Tour Course",
+                "subText":"Worry no more,\n we will recommend the right place for you.",
+                "content0":"Healthy diet tailored to the body, Jingu vegan food",
+                "content1":"Infertility treatment, Busanjin-gu Obstetrics and Gynecology",
+                "content2":"24-hour emergency medical center",
+                "content3":"Easy and fast flight information"
+            },
+            "tem1":{
+                "title":"Medical Tourism Service Status",
+                "subtitle0":"Medical Facilities",
+                "subtitle1":"Shopping/Food",
+                "subtitle2":"Transportation/Tourism"
+            },
+            "tem2":{
+                "title":"Notice",
+                "infoText":"News from Busan Jin-gu Medical Tourism Information Center."
+            },
+            "tem3":{
+                "title":"Institutional Collaboration",
+                "infoText":"Through collaboration with various institutions, we are dreaming of taking a leap forward in the medical tourism system in Jin-gu, Busan."
+            }
+        }
+    },
+    "refund":{
+        "content0":{
+            "title":"Tax Exemption",
+            "textArea":{
+                "text0":"Korea's tax exemption system.",
+                "text1":"In duty-free shops, no tax is levied on the price of goods, including value-added tax (VAT 10%) and individual consumption tax.",
+                "text2":"They are usually operated by large department store chains such as Lotte, Shilla, and Shinsegae, and are located in airports and downtown areas.",
+                "text3":"In contrast, Tax Refund is a system in which shoppers purchase products at regular prices, including tax, and receive a refund of the tax paid before leaving the country.",
+                "text4":"Generally, tax refunds can be obtained by presenting the corresponding receipt at the tax refund booth when leaving the country.",
+                "text5":"You can also easily get an instant tax-free refund within certain limits by shopping at certified duty-free store.",
+                "text6":"Department stores and hypermarkets were the first to implement the instant duty-free system, and now has expanded to smaller stores "
+            },
+            "btn":"Duty-Free Shops Information"
+        },
+        "content1":{
+            "title":"Duty-Free Shopping Guide",
+            "textArea":{
+                "text0":"You must present your passport for immediate tax refunds",
+                "text1":"Starting from April 1, 2020, you can get an immediate refund for items with a purchase price of 30,000 won or more and less than 500,000 won including tax.",
+                "text2":"Immediate refund is limited to purchases of less than KRW 2,500,000 during the entire domestic trip."
+            },
+            "table":{
+                "line0":{
+                    "title":"Target shoppers",
+                    "textArea":{
+                        "line0":"For purchases of KRW 30,000 or more, you must leave the country within 3 months from the date of purchase, and you must meet one of the following requirements.",
+                        "line1":"- Foreigners (staying in Korea for less than 6 months)",
+                        "line2":"- Overseas Koreans",
+                        "line3":"(residence for more than 2 years / less than 3 months in Korea)"
+                    }
+                },
+                "line1":{
+                    "title":"STEP 1",
+                    "textArea":{
+                        "line0":"Keep your VAT refund receipt when purchasing goods.",
+                        "line1":"Before purchasing, check that the retailer is a certified 'Tax Free' brand that offer tax refund services.",
+                        "line2":"Stores that offer refund services must have a 'Tax Free' mark on their VAT refund receipts.",
+                        "line3":"The purchase limit for items subject to tax refund is KRW 5,000,000."
+                    }
+                },
+                "line2":{
+                    "title":"STEP 2",
+                    "textArea":{
+                        "line0":"Apply for tax refund at major airports and branches nationwide.",
+                        "line1":"1. At Incheon Airport",
+                        "line2":"1) Get your boarding pass and do not check in your luggage.",
+                        "line3":"2) Show the purchased goods and the VAT refund receipt to the customs officer and get the customs export approval stamp on the receipt.",
+                        "line4":"Kiosk machines are available if the total refund amount is less than KRW 75,000.",
+                        "line5":"However, kiosk systems may not always be available.",
+                        "line6":"3) Go to the oversized baggage counter in the check-in area to check in your baggage.",
+                        "line7":"4) Take your passport and tax refund receipt and go to the nearest tax refund counter or kiosk machine.",
+                        "line8":"Real cash refunds can be collected at the duty-free area after security screening and screening.",
+                        "line9":"Duty Free Counter",
+                        "line10":"- Public places: 3rd floor Passenger Terminal 2 D&E check-in counter",
+                        "line11":"- Duty-free area: Gates 26 and 27 on the 4th floor of Passenger Terminal 1 / Gate 253 on the 3rd floor of Terminal 2",
+                        "line12":"Duty Free Kiosk Machine",
+                        "line13":"- Public area: 3F Passenger Terminal 2 D&E check-in counter",
+                        "line14":"- Duty-free area: 3F Central Pharmacy Central Hall, 3F Passenger Terminal 1 Gate 28, 27 or",
+                        "line15":"Gates 250 and 253, Terminal 2, 3rd floor",
+                        "line16":"For airports/terminals without a service desk",
+                        "line17":"After filling out the tax refund application form, please put it in the designated box on site.",
+                        "line18":"Tax refunds will be credited to your international credit card within 1-2 months if your request is successful.",
+                        "line19":"Procedures vary depending on the airport and port, so please check the details in advance.",
+                        "line20":"2. At other refund booths other than airports/ports",
+                        "line21":"You can get a cash refund on the spot by presenting the purchased item,",
+                        "line22":"VAT refund receipt, passport, and international credit card at the VAT refund booth.",
+                        "line23":"If you have already obtained customs clearance approval for goods for which refund tax credit has been granted, the relevant receipt must be submitted to the customs office or",
+                        "line24":"It must be submitted to the designated refund window. (Tax refund booths outside the airport only provide refunds provided by those companies.",
+                        "line25":"Regardless of the company, full refunds are only available at booths at airports and ports.",
+                        "line26":"Note",
+                        "line27":"Refunds for Alipay and UnionPay may differ from the information provided above",
+                        "line28":"For details, please check with each credit card company."
+                    }
+                }
+            }
+        }
+    },
+    "emergency":{
+        "content0":{
+            "title":"accidents or emergency situations",
+            "textArea":{
+                "text0":"If you call 112 or 119 and ask for an ambulance in English, you will find the location of the reporter and send the ambulance.",
+                "text1":"Call 119 anywhere in Korea to automatically track your location.",
+                "text2-0":"Operating hours :",
+                "text2-1":"24 hours a day",
+                "text3-0":"Language :",
+                "text3-1":"Service in 17 languages including English, Chinese, and Japanese"
+            },
+            "btn":"Finding the Busan Emergency Room"
+
+        },
+        "content1":{
+            "title":"pharmacy",
+            "textArea":{
+                "text0":"You can buy medicine at a store with a sign that says '약'",
+                "text1":"Basic medicines are generally available, and basic medicines such as fever reducer, painkillers, digestive medicine, and cold medicine can be purchased at convenience stores."
+            },
+            "btn":"Find a free 24-hour pharmacy"
+
+        },
+        "content2":{
+            "title":"International Medical Center",
+            "table":{
+                "line0":{
+                    "title":"Group Name",
+                    "td0":"Busan Medical Center",
+                    "td1":"Pusan ​​National University Hospital",
+                    "td2":{
+                        "line0":"Kosin University",
+                        "line1":"Gospel Hospital"
+                    },
+                    "td3":"Dong-Eui Medical Center",
+                    "td4":"Daedong Hospital",
+                    "td5":"Dong-A University Hospital",
+                    "td6":{
+                        "line0":"Bumin Hospital",
+                        "line1":"(Haeundae/Busan Branch)"
+                    },
+                    "td7":{
+                        "line0":"Inje University",
+                        "line1":"Inje University Haeundae Paik Hospita"
+                    },
+                    "td8":"On Hospital",
+                    "td9":{
+                        "line0":"Korean National Tuberculosis Association",
+                        "line1":"KNTA Medical Center"
+                    },
+                    "td10":{
+                        "line0":"Korea Population Health and Welfare Association",
+                        "line1":"Busan Branch"
+                    },
+                    "td11":"Kwang-Dong Hospital",
+                    "td12":"Busan Medical Center",
+                    "td13":"Busan Medical Center"
+                },
+                "line1":{
+                    "title":"Contents of Treatment",
+                    "td0":"Rehabilitation center, artificial heart center, cardiovascular center for all departments other than internal medicine and orthopedics",
+                    "td1":{
+                        "line0":"All subjects except internal medicine and surgery",
+                        "line1":"- Busan regional cancer center, clinical trial center, cardiovascular center, and more",
+                        "line2":"- Interpretation available (English/Chinese/Japanese/Russian/Mongolian/Vietnamese, etc.)"
+                    },
+                    "td2":{
+                        "line0":"Visa procedures for all departments, including family medicine, obstetrics and gynecology, and respiratory medicine",
+                        "line1":"physical examination and more"
+                    },
+                    "td3":"Treatment of all departments and oriental medicine clinic",
+                    "td4":"Operation of internal medicine, orthopedics, obstetrics and gynecology, and all departments of emergency medicine",
+                    "td5":{
+                        "line0":"All departments including internal medicine and orthopedics available",
+                        "line1":"Emergency and delivery patients can be treated at the emergency medical center 24/7"
+                    },
+                    "td6":"Operation of joint, spine, specialized rehabilitation exercise treatment center, emergency medical center ",
+                    "td7":"Internal medicine, orthopedics, ophthalmology and family medicine treatment, health checkup, vaccination, and more",
+                    "td8":{
+                        "line0":"All departments including internal medicine and orthopedics available",
+                        "line1":"- Free medical treatment for foreign students/workers",
+                        "line2":"- Free Checkup: Every Sunday 14:00-16:00",
+                        "line3":"- Medical staff: Green Doctors, a medical volunteer group"
+                    },
+                    "td9":{
+                        "line0":"Free medical treatment for foreign students/workers",
+                        "line1":"- Internal medicine, bone density test, breast cancer test, and more"
+                    },
+                    "td10":"Conduct health checkup",
+                    "td11":"All departments excluding internal medicine and orthopedics",
+                    "td12":"All departments excluding internal medicine and orthopedics",
+                    "td13":"All departments excluding internal medicine and orthopedics"
+                },
+                "line2":{
+                    "title":"Consultation Hours",
+                    "td0":{
+                        "line0":"08:30~16:30(weekdays)",
+                        "line1":"08:30~12:00(Sat.)"
+                    },
+                    "td1":"09:00~17:30(weekdays)",
+                    "td2":"09:00~17:00(weekdays)",
+                    "td3":"09:00~17:00(weekdays)",
+                    "td4":{
+                        "line0":"09:00~17:30(weekdays)",
+                        "line1":"09:00~12:30(weekend)"
+                    },
+                    "td5":"08:30~17:30(weekdays)",
+                    "td6":{
+                        "line0":"09:00~18:00(weekdays)",
+                        "line1":"09:00~13:00(Sat.)"
+                    },
+                    "td7":{
+                        "line0":"09:00~17:00(weekdays)",
+                        "line1":"09:00~12:00(Sat.)"
+                    },
+                    "td8":{
+                        "line0":"09:00~18:00(weekdays)",
+                        "line1":"09:00~13:00(Sat.)"
+                    },
+                    "td9":"09:00~18:00(weekdays)",
+                    "td10":{
+                        "line0":"09:00~17:20(weekdays)",
+                        "line1":"09:00~13:20(Sat.)"
+                    },
+                    "td11":{
+                        "line0":"09:00~22:00(weekdays)",
+                        "line1":"09:00~13:00(Sat.)"
+                    },
+                    "td12":{
+                        "line0":"09:00~22:00(weekdays)",
+                        "line1":"09:00~13:00(Sat.)"
+                    },
+                    "td13":{
+                        "line0":"09:00~22:00(weekdays)",
+                        "line1":"09:00~13:00(Sat.)"
+                    }
+                },
+                "line3":{
+                    "title":"Address and Contact",
+                    "td0":{
+                        "line0":"359 World cup-daero, Yeonje-gu, Busan /",
+                        "line1":"507-3000"
+                    },
+                    "td1":{
+                        "line0":"179 Gudeok-ro, Seo-gu, Busan /",
+                        "line1":"240-7000"
+                    },
+                    "td2":{
+                        "line0":"262 Gamcheon-ro, Seo-gu, Busan /",
+                        "line1":"990-6114"
+                    },
+                    "td3":{
+                        "line0":"262 Gamcheon-ro, Seo-gu, Busan /",
+                        "line1":"990-6114"
+                    },
+                    "td4":{
+                        "line0":"187 Chungnyeol-daero, Dongnae-gu, Busan /",
+                        "line1":"554-1233"
+                    },
+                    "td5":{
+                        "line0":"26 Daesingongwon-roSeo-gu, Busan /",
+                        "line1":"240-2000"
+                    },
+                    "td6":{
+                        "line0":"584 Haeun-daero, Haeundae-gu, Busan /",
+                        "line1":"1670-0082",
+                        "line2":"326 Gaya-daero, Sasang-gu, Busan /",
+                        "line3":"330-3000"
+                    },
+                    "td7":{
+                        "line0":"875 Haeun-daero, Haeundae-gu, Busan /",
+                        "line1":"890-6115"
+                    },
+                    "td8":{
+                        "line0":"719 Gaya-daero, Busanjin-gu, Busan /",
+                        "line1":"607-0114"
+                    },
+                    "td9":{
+                        "line0":"299 Suyeong-ro, Nam-gu, Busan /",
+                        "line1":"611-3622"
+                    },
+                    "td10":{
+                        "line0":"425 Suyeong-ro, Suyeong-gu, Busan /",
+                        "line1":"624-5581"
+                    },
+                    "td11":{
+                        "line0":"145 Dadae-ro, Saha-gu, Busan /",
+                        "line1":"209-1100"
+                    },
+                    "td12":{
+                        "line0":"119 Beomil-ro, Dong-gu, Busan /",
+                        "line1":"644-2002"
+                    },
+                    "td13":{
+                        "line0":"27 Anyeon-ro 109beon-gil, Dongnae-gu, Busan /",
+                        "line1":"531-6000"
+                    }
+                }
+            }
+        }
+    },
+    "board":{
+        "count0":"Total",
+        "count1":"",
+        "no":"No",
+        "type":"Type",
+        "mediname":"Name of medical institution",
+        "tourname":"Name of tourist attraction",
+        "mainType":"Representative medical field",
+        "number":"Phone number",
+        "viewNum10":"View 10 each",
+        "viewNum30":"View 30 each",
+        "viewNum50":"View 50 each",
+        "noSearch":"No search results found.",
+        "notFind":"There are no registered posts.",
+        "title":"Title",
+        "date":"Posting date"
+    },
+    "alert":{
+        "search":"Please enter a search term.",
+        "trans":"No translated text.",
+        "change":"Sensing language and translation language are the same.",
+        "input":"No origin or destination has been entered.",
+        "copy":"It's been copied."
+    },
+    "train_service_info":{
+        "dep":"Departure",
+        "city":"City",
+        "nation":"Station",
+        "arr":"Arrival",
+        "date":"Date",
+        "search":"Search",
+        "info":"information",
+        "type":"Train type",
+        "depT":"Departure time",
+        "arrT":"Arrival time",
+        "coast":"charge",
+        "no":"Train number"
+    },
+    "tourist_information_view":{
+        "info":"Tourism information",
+        "place":"tourist attractions",
+        "maininfo":"Key information",
+        "name":"Tourist attraction name",
+        "type":"Classification",
+        "add":"Address",
+        "num":"Phone number",
+        "description":"Description",
+        "etc":"Other information",
+        "homepage":"Homepage",
+        "email":"Email",
+        "time":"Operating hours",
+        "traffic":"Traffic",
+        "list":"List"
+    },
+    "subway_map":{
+        "service":"Map service",
+        "map":"Subway map", 
+        "mapinfo":"Subway map",
+        "line1":"Line 1",
+        "line2":"Line 2",
+        "line3":"Line 3",
+        "line4":"Line 4",
+        "line5":"Donghae Nambu Line",
+        "line6":"KNR National Railwyas",
+        "line7":"Transfer station"
+    },
+    "search_result":{
+        "result":"Search result",
+        "search":"Search",
+        "searchText0":"A total of",
+        "searchText1":"content was searched as a search term.",
+        "mediInfo":"Medical institution information",
+        "tourInfo":"The sights information",
+        "notice":"Notice",
+        "resultMore":"More"
+    },
+    "route_search":{
+        "service":"Map service",
+        "search":"Path search",
+        "dep":"Departure",
+        "arr":"Destination",
+        "load":"Search",
+        "map":"Map",
+        "dot":"Seo-myeon Medical Street"
+    },
+    "notice_view":{
+        "title":"Notice",
+        "date":"Date",
+        "addFile":"Attached files",
+        "list":"List",
+        "prev":"Prev",
+        "next":"Next"
+    },
+    "notFoundPage":{
+        "line0":"Page not found.", 
+        "line1":"Sorry, the page you requested was not found.", 
+        "line2":"It may have been modified, moved, or deleted.",
+        "line3":"Home" 
+    },
+    "medical_institution_information_view":{
+        "info":"Medical institution information",
+        "mainInfo":"Key information",
+        "mediInfo":"Hospital information",
+        "name":"Name of medical institution",
+        "class":"Classification",
+        "type":"the field of medical treatment",
+        "add":"Address",
+        "tel":"Phone number",
+        "description":"Hospital description",
+        "etc":"Other information",
+        "home":"Homepage",
+        "email":"E-mail",
+        "time":"Medical examination hours",
+        "traffic":"Traffic information",
+        "list":"List"
+    },
+    "location_based":{
+        "search":"Find on a map",
+        "medi":"Healthcare facility",
+        "tour":"Tourist attractions",
+        "list":"List",
+        "go":"Find it right away",
+        "item0":"Seomyeon Medical Street",
+        "item1":"Seomyeon Station",
+        "item2":"Busanjin-gu Health Center",
+        "item3":"Busan Jin-gu Office",
+        "map":"Map"
+    },
+    "junguMain":{
+        "item0":"Jin-Goo",
+        "item1":"medical tourism",
+        "item2":"Busan"    
+    },
+    "faq_view":{
+        "cat":"Category",
+        "f":"Question",
+        "q":"Answer",
+        "none":"No FAQs registered."
+    },
+    "eBook_view":{
+        "add":"Attached files",
+        "list":"List",
+        "prev":"Prev",
+        "next":"Next"
+    },
+    "air_traffic_info":{
+        "item0":"International flight", 
+        "item1":"Domestic flight",
+        "item2":"Departure",
+        "item3":"Destination",
+        "item4":"Departure date",
+        "item5":"Seach",
+        "item6":"No search results found.",
+        "item7":"Key information",
+        "item8":"Airline",
+        "item9":"Departure time",
+        "item10":"Operation day",
+        "item11":"Period of operation",
+        "item12":"Monday",
+        "item13":"Tuesday",
+        "item14":"Wednesday",
+        "item15":"Thursday",
+        "item16":"Friday",
+        "item17":"Saturday",
+        "item18":"Sunday"
+    },
+    "ai_Transition":{
+        "scan":"Language detection",
+        "ko":"Korean",
+        "en":"English",
+        "jp":"Japanese",
+        "chs":"Simplified Chinese",
+        "cht":"Traditional Chinese",
+        "change":"Switching languages",
+        "trans":"translating"
+    }
+}
